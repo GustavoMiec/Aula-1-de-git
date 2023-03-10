@@ -1,0 +1,14 @@
+ola teste 123...
+
+
+config
+init
+status
+add
+commit -m "_______"
+reset
+diff
+checkout
+remote
+branch
+push
